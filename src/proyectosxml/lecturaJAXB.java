@@ -6,10 +6,6 @@
 
 package proyectosxml;
 
-/**
- *
- * @author 122bd
- */
 public class lecturaJAXB {
     
 }
