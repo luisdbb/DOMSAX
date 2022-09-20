@@ -107,7 +107,7 @@ public class GeneradorDOM {
         
         //Para el result
         //--------------------
-        File file = new File("productos.xml");
+        File file = new File("ficheros\\productos.xml");
         FileWriter fw = new FileWriter(file);
         //Este es el objeto que a usar el Result para generar el documento
         PrintWriter pw = new PrintWriter(fw);
